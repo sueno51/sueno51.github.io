@@ -1,4 +1,5 @@
-{"@context":"https://w3id.org/did/v0.11",
+{
+ "@context":"https://w3id.org/did/v0.11",
  "id":"did:web:facultylab.xyz#z6MkqPf6mcRtDeD5AEjXNoM94bRMJuBmajhGR4sDU33Afke7",
  "authentication":[{
    "id":"did:web:facultylab.xyz#z6MkqPf6mcRtDeD5AEjXNoM94bRMJuBmajhGR4sDU33Afke7",
