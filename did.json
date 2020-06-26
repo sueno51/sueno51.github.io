@@ -1,1 +1,14 @@
-{"@context":"https://w3id.org/did/v0.11","id":"did:web:facultylab.xyz#z6MkqPf6mcRtDeD5AEjXNoM94bRMJuBmajhGR4sDU33Afke7","authentication":[{"id":"did:web:facultylab.xyz#z6MkqPf6mcRtDeD5AEjXNoM94bRMJuBmajhGR4sDU33Afke7","type":"Ed25519VerificationKey2018","controller":"did:web:facultylab.xyz","publicKeyBase58":"BwQ4BNBSt6ic3jtphEPJDVsMVKuvArSuj3xHdm59kXrj"}],"assertionMethod":[{"id":"did:web:facultylab.xyz#z6MkqPf6mcRtDeD5AEjXNoM94bRMJuBmajhGR4sDU33Afke7","type":"Ed25519VerificationKey2018","publicKeyBase58":"BwQ4BNBSt6ic3jtphEPJDVsMVKuvArSuj3xHdm59kXrj"}],"service":[{}]}
+{"@context":"https://w3id.org/did/v0.11",
+ "id":"did:web:facultylab.xyz#z6MkqPf6mcRtDeD5AEjXNoM94bRMJuBmajhGR4sDU33Afke7",
+ "authentication":[{
+   "id":"did:web:facultylab.xyz#z6MkqPf6mcRtDeD5AEjXNoM94bRMJuBmajhGR4sDU33Afke7",
+   "type":"Ed25519VerificationKey2018",
+   "controller":"did:web:facultylab.xyz",
+   "publicKeyBase58":"BwQ4BNBSt6ic3jtphEPJDVsMVKuvArSuj3xHdm59kXrj"}],
+ "assertionMethod":[{
+   "id":"did:web:facultylab.xyz#z6MkqPf6mcRtDeD5AEjXNoM94bRMJuBmajhGR4sDU33Afke7",
+   "type":"Ed25519VerificationKey2018",
+   "publicKeyBase58":"BwQ4BNBSt6ic3jtphEPJDVsMVKuvArSuj3xHdm59kXrj"}],
+ "service":[{
+}]
+}
