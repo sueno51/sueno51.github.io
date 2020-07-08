@@ -1,0 +1,9 @@
+{
+  "@context": [
+    "https://w3id.org/security/v2",
+  ],
+  "id": "did:web:facultylab.xyz#z6MkpUdJnW7beUzcg5cTBiZ54axntgee8Jo4awFU3moejdtY",
+  "type": "Ed25519VerificationKey2018",
+  "controller": "did:web:facultylab.xyz",
+  "publicKeyBase58": "B2NGCFsAJwW9ZamkW9bEDVQo57NniRYhtvLYDVqdpR7A"
+}
