@@ -2,12 +2,10 @@
 	"@context": {
 		"@version": 1.1,
 		"@protected": true,
-
 		"name": "http://schema.org/name",
 		"description": "http:/schema.org/description",
 		"ReviewerSource": {
 			"dateOfExpiration": "schema:dateModified",
-			"dateOfIssue": "schema:dateCreated",
 			"reviewer": "schema:identifier",
 			"name": "schema:accountId"
 		},
