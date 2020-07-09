@@ -18,7 +18,7 @@
 			"TaleRunReproduced": "schema:value",
 			"DOIofSubmission": "schema:identifier"
 		},
-		"id": "schema:identifier",
+		"id": "@id",
 		"issued": "schema:dateCreated",
 		"issuer": "schema:identifier"
 	}
