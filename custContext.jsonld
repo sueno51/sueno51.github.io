@@ -21,5 +21,6 @@
      "DOIofSubmission": "schema:identifier"
     },
     "id": "schema:identifier",
-    "issued": "schema:dateCreated"
+    "issued": "schema:dateCreated",
+    "issuer" :"schema:identifier"
 }
