@@ -22,6 +22,9 @@
         "version": "schema:version"
       }
     }
+   "proofName": "schema:value",
+   "type": "schema:value"
+	  
 
   }
 }
