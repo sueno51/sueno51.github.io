@@ -1,24 +1,27 @@
 {
-	"@context": {
-		"@version": 1.1,
-		 "@protected": true,
-		"name": "http://schema.org/name",
-		"description": "http:/schema.org/description",
-		"ReviewerSource": {
-			"dateCreated": "schema:dateCreated",
-			"reviewer": "schema:identifier",
-			"name": "schema:accountId"
-		},
-		"claim": {
-			"reviewer": "schema:identifier",
-			"referencesExist": "schema:value",
-			"soiExists": "schema:value",
-			"taleRunSuccess": "schema:value",
-			"TaleRunReproduced": "schema:value",
-			"DOIofSubmission": "schema:identifier"
-		},
-		"id": "@id",
-		"issued": "schema:dateCreated",
-		"issuer": "schema:identifier"
-	}
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+
+    "name": "http://schema.org/name",
+    "description": "http:/schema.org/description",
+    "ReviewData": {
+      "@id": "http://www.craftofscience.xyz/TaleData",
+      "@context": {              
+        "id": "@id",
+        "dateCreated" : "schema: dateCreated",
+        "referencesExist" : "schema:value",
+	"soiExists": "schema:value",
+	"taleRunSucess": "schema:value",
+	"TaleRunReproduced": "schema:value",
+	"DOIofSubmission": "schema:value",
+        "schema": "http://schema.org/",
+        "xsd": "https://www.w3.org/2001/XMLSchema#",
+        
+        "identifier": "schema:identifier",
+        "version": "schema:version"
+      }
+    }
+
+  }
 }
