@@ -12,7 +12,7 @@
         "dateCreated" : "schema: dateCreated",
         "referencesExist" : "schema:value",
 	"soiExists": "schema:value",
-	"taleRunSucess": "schema:value",
+	"taleRunSuccess": "schema:value",
 	"TaleRunReproduced": "schema:value",
 	"DOIofSubmission": "schema:value",
         "schema": "http://schema.org/",
