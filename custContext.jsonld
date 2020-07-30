@@ -8,7 +8,7 @@
     "ReviewData": {
       "@id": "http://www.craftofscience.xyz/TaleData",
       "@context": {              
-        "id": "@id",
+        "reviewer": "schema:identifier",
         "dateCreated" : "schema: dateCreated",
         "referencesExist" : "schema:value",
 	"soiExists": "schema:value",
