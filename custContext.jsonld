@@ -6,7 +6,7 @@
     "name": "http://schema.org/name",
     "description": "http:/schema.org/description",
     "ReviewData": {
-      "@id": "http://www.craftofscience.xyz/TaleData",
+      "@id": "http://www.testpublication.xyz/TaleData",
       "@context": {              
         "id": "did:web:facultylab.xyz",
         "dateCreated" : "schema: dateCreated",
